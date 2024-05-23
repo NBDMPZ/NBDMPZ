@@ -134,7 +134,7 @@ def Menu():
             print("Hibás menupont")
 
 
-lemondas('2024.07.30', '10')
+
 Menu()
 
 
